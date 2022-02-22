@@ -1,2 +1,4 @@
-# data-analytics-portfolio
-learn python sql
+# data-analytics-portfolio with Pepperdine University
+## SQL
+## STATISTICS
+## VISUAL COMMUNICATIONS
