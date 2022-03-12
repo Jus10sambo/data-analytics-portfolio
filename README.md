@@ -1,4 +1,4 @@
 # data-analytics-portfolio with Pepperdine University
 ## SQL
 ## STATISTICS
-## VISUAL COMMUNICATIONS
+## VISUAL COMMUNICATION
